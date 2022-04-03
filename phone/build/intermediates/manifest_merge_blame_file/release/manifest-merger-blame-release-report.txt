@@ -1,0 +1,16 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!-- not a real Android application, it is run by app_process manually -->
+3<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+4    package="com.lobakkang.keymapper"
+5    android:versionCode="12300"
+6    android:versionName="1.23" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="21"
+9-->/media/lobakkang/linux_extend/new_github/keymapper/phone/src/main/AndroidManifest.xml
+10        android:targetSdkVersion="31" />
+10-->/media/lobakkang/linux_extend/new_github/keymapper/phone/src/main/AndroidManifest.xml
+11
+12    <application />
+13
+14</manifest>

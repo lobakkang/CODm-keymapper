@@ -1,0 +1,4 @@
+#Sun Apr 03 13:40:19 MYT 2022
+base.0=/media/lobakkang/linux_extend/new_github/keymapper/phone/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

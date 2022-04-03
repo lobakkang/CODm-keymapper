@@ -1,0 +1,8 @@
+<dependencies>
+  <compile
+      roots="/media/lobakkang/linux_extend/new_github/keymapper@@:phone::debug">
+    <dependency
+        name="/media/lobakkang/linux_extend/new_github/keymapper@@:phone::debug"
+        simpleName=":"/>
+  </compile>
+</dependencies>

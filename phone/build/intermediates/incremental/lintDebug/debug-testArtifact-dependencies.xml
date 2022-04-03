@@ -1,0 +1,19 @@
+<dependencies>
+  <compile
+      roots="/media/lobakkang/linux_extend/new_github/keymapper@@:phone::debug,junit:junit:4.13.1@jar,org.hamcrest:hamcrest-core:1.3@jar">
+    <dependency
+        name="/media/lobakkang/linux_extend/new_github/keymapper@@:phone::debug"
+        simpleName=":"/>
+    <dependency
+        name="junit:junit:4.13.1@jar"/>
+    <dependency
+        name="org.hamcrest:hamcrest-core:1.3@jar"/>
+  </compile>
+  <package
+      roots="junit:junit:4.13.1@jar,org.hamcrest:hamcrest-core:1.3@jar">
+    <dependency
+        name="junit:junit:4.13.1@jar"/>
+    <dependency
+        name="org.hamcrest:hamcrest-core:1.3@jar"/>
+  </package>
+</dependencies>

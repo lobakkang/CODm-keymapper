@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- not a real Android application, it is run by app_process manually -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.lobakkang.keymapper"
+    android:versionCode="12300"
+    android:versionName="1.23" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="31" />
+
+    <application />
+
+</manifest>

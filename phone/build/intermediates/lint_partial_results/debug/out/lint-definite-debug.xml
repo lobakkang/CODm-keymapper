@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 7.0.3" type="incidents">
+
+    <incident
+        id="OldTargetApi"
+        severity="warning"
+        message="Not targeting the latest versions of Android; compatibility modes apply. Consider testing and updating this version. Consult the android.os.Build.VERSION_CODES javadoc for details.">
+        <fix-replace
+            description="Update targetSdkVersion to 32"
+            oldString="31"
+            replacement="32"/>
+        <location
+            file="$PHONE/build.gradle"
+            line="8"
+            column="9"
+            startOffset="177"
+            endLine="8"
+            endColumn="28"
+            endOffset="196"/>
+    </incident>
+
+</incidents>
